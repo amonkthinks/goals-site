@@ -219,13 +219,12 @@
           "paddingLeft": "24px",
           "paddingRight": "24px",
           "paddingBottom": "140px",
-          "backgroundColor": "#f5f7ff",
-          "backgroundImage": "radial-gradient(60% 60% at 50% 0%, rgba(99, 102, 241, 0.22) 0%, rgba(255, 255, 255, 0) 70%)"
+          "backgroundColor": "#090d16"
         }
       },
       "children": [
         {
-          "id": "blk_mumht105959",
+          "id": "aimummszsg_2",
           "type": "container",
           "props": {},
           "styles": {
@@ -239,31 +238,34 @@
           },
           "children": [
             {
-              "id": "blk_mumht105960",
+              "id": "aimummszsg_3",
               "type": "paragraph",
               "props": {
                 "text": "New — AI automations are here"
               },
               "styles": {
                 "desktop": {
-                  "color": "#4f46e5",
+                  "color": "#818cf8",
                   "display": "inline-block",
                   "fontSize": "13px",
                   "marginTop": "0px",
                   "fontWeight": "600",
                   "lineHeight": "1.6",
                   "paddingTop": "6px",
+                  "borderColor": "rgba(99, 102, 241, 0.2)",
+                  "borderStyle": "solid",
+                  "borderWidth": "1px",
                   "paddingLeft": "14px",
                   "borderRadius": "999px",
                   "marginBottom": "20px",
                   "paddingRight": "14px",
                   "paddingBottom": "6px",
-                  "backgroundColor": "#eef2ff"
+                  "backgroundColor": "rgba(99, 102, 241, 0.1)"
                 }
               }
             },
             {
-              "id": "blk_mumht105961",
+              "id": "aimummszsg_4",
               "type": "heading",
               "props": {
                 "text": "Grow faster with every tool in one place",
@@ -277,6 +279,7 @@
                   "fontSize": "52px"
                 },
                 "desktop": {
+                  "color": "#ffffff",
                   "fontSize": "68px",
                   "marginTop": "0px",
                   "fontWeight": "700",
@@ -287,7 +290,7 @@
               }
             },
             {
-              "id": "blk_mumht105962",
+              "id": "aimummszsg_5",
               "type": "paragraph",
               "props": {
                 "text": "Forms, email, automation and analytics — built to work together, so your team ships campaigns in hours, not weeks."
@@ -297,7 +300,7 @@
                   "fontSize": "17px"
                 },
                 "desktop": {
-                  "color": "#475569",
+                  "color": "#94a3b8",
                   "fontSize": "20px",
                   "marginTop": "0px",
                   "lineHeight": "1.6",
@@ -306,7 +309,7 @@
               }
             },
             {
-              "id": "blk_mumht105963",
+              "id": "aimummszsg_6",
               "type": "div",
               "props": {},
               "styles": {
@@ -325,7 +328,7 @@
               },
               "children": [
                 {
-                  "id": "blk_mumht105964",
+                  "id": "aimummszsg_7",
                   "type": "button",
                   "props": {
                     "href": "#",
@@ -334,7 +337,7 @@
                   },
                   "styles": {
                     "desktop": {
-                      "color": "#ffffff",
+                      "color": "#0f172a",
                       "display": "inline-block",
                       "fontWeight": "500",
                       "paddingTop": "14px",
@@ -343,12 +346,12 @@
                       "paddingRight": "28px",
                       "paddingBottom": "14px",
                       "textDecoration": "none",
-                      "backgroundColor": "#0f172a"
+                      "backgroundColor": "#ffffff"
                     }
                   }
                 },
                 {
-                  "id": "blk_mumht105965",
+                  "id": "aimummszsg_8",
                   "type": "button",
                   "props": {
                     "href": "#",
@@ -357,11 +360,11 @@
                   },
                   "styles": {
                     "desktop": {
-                      "color": "#0f172a",
+                      "color": "#ffffff",
                       "display": "inline-block",
                       "fontWeight": "500",
                       "paddingTop": "14px",
-                      "borderColor": "#cbd5e1",
+                      "borderColor": "rgba(255, 255, 255, 0.2)",
                       "borderStyle": "solid",
                       "borderWidth": "1px",
                       "paddingLeft": "28px",
@@ -369,7 +372,7 @@
                       "paddingRight": "28px",
                       "paddingBottom": "14px",
                       "textDecoration": "none",
-                      "backgroundColor": "#ffffff"
+                      "backgroundColor": "transparent"
                     }
                   }
                 }
