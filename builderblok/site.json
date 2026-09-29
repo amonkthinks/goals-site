@@ -1,4 +1,10 @@
 {
   "schemaVersion": 1,
-  "pages": []
+  "pages": [
+    {
+      "route": "/",
+      "name": "qq",
+      "file": "pages/qq.json"
+    }
+  ]
 }
