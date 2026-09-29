@@ -282,8 +282,8 @@
         "desktop": {
           "display": "grid",
           "paddingTop": "80px",
-          "paddingLeft": "20px",
-          "paddingRight": "20px",
+          "paddingLeft": "40px",
+          "paddingRight": "40px",
           "paddingBottom": "80px",
           "backgroundColor": "#ffffff",
           "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
@@ -411,6 +411,8 @@
         },
         "desktop": {
           "paddingTop": "40px",
+          "paddingLeft": "40px",
+          "paddingRight": "40px",
           "paddingBottom": "40px",
           "backgroundColor": "#f8fafc"
         }
@@ -681,8 +683,8 @@
         },
         "desktop": {
           "paddingTop": "60px",
-          "paddingLeft": "20px",
-          "paddingRight": "20px",
+          "paddingLeft": "40px",
+          "paddingRight": "40px",
           "paddingBottom": "60px",
           "backgroundColor": "#ffffff"
         }
@@ -888,6 +890,8 @@
         },
         "desktop": {
           "paddingTop": "60px",
+          "paddingLeft": "40px",
+          "paddingRight": "40px",
           "paddingBottom": "60px",
           "backgroundColor": "#f8fafc"
         }
@@ -897,7 +901,15 @@
           "id": "ai_c5",
           "type": "container",
           "props": {},
-          "styles": {},
+          "styles": {
+            "desktop": {
+              "gap": "32px",
+              "display": "flex",
+              "paddingLeft": "20px",
+              "paddingRight": "20px",
+              "flexDirection": "column"
+            }
+          },
           "children": [
             {
               "id": "ai_h_features",
@@ -906,7 +918,14 @@
                 "text": "Features",
                 "level": "h2"
               },
-              "styles": {}
+              "styles": {
+                "desktop": {
+                  "display": "flex",
+                  "fontSize": "40px",
+                  "fontWeight": "600",
+                  "justifyContent": "center"
+                }
+              }
             },
             {
               "id": "ai_g3",
@@ -920,6 +939,8 @@
                   "gridTemplateColumns": "minmax(0, 1fr)"
                 },
                 "desktop": {
+                  "gap": "20px",
+                  "display": "grid",
                   "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
                 }
               },
@@ -928,7 +949,19 @@
                   "id": "ai_feat1",
                   "type": "div",
                   "props": {},
-                  "styles": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "10px",
+                      "display": "flex",
+                      "paddingTop": "15px",
+                      "paddingLeft": "15px",
+                      "paddingRight": "15px",
+                      "flexDirection": "column",
+                      "paddingBottom": "15px",
+                      "justifyContent": "center",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
                   "children": [
                     {
                       "id": "ai_feat1_h",
@@ -937,7 +970,14 @@
                         "text": "Real-time Dashboards",
                         "level": "h3"
                       },
-                      "styles": {}
+                      "styles": {
+                        "desktop": {
+                          "display": "flex",
+                          "fontSize": "18px",
+                          "fontWeight": "500",
+                          "justifyContent": "center"
+                        }
+                      }
                     },
                     {
                       "id": "ai_feat1_p",
@@ -945,7 +985,14 @@
                       "props": {
                         "text": "Monitor your KPIs live with customizable widgets."
                       },
-                      "styles": {}
+                      "styles": {
+                        "desktop": {
+                          "display": "flex",
+                          "fontSize": "14px",
+                          "alignItems": "center",
+                          "justifyContent": "center"
+                        }
+                      }
                     }
                   ]
                 },
@@ -953,7 +1000,20 @@
                   "id": "ai_feat2",
                   "type": "div",
                   "props": {},
-                  "styles": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "10px",
+                      "display": "flex",
+                      "alignItems": "center",
+                      "paddingTop": "15px",
+                      "paddingLeft": "15px",
+                      "paddingRight": "15px",
+                      "flexDirection": "column",
+                      "paddingBottom": "15px",
+                      "justifyContent": "center",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
                   "children": [
                     {
                       "id": "ai_feat2_h",
@@ -962,7 +1022,12 @@
                         "text": "Custom Reports",
                         "level": "h3"
                       },
-                      "styles": {}
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "18px",
+                          "fontWeight": "500"
+                        }
+                      }
                     },
                     {
                       "id": "ai_feat2_p",
@@ -970,7 +1035,11 @@
                       "props": {
                         "text": "Build and schedule reports tailored to your business needs."
                       },
-                      "styles": {}
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "14px"
+                        }
+                      }
                     }
                   ]
                 },
@@ -978,7 +1047,20 @@
                   "id": "ai_feat3",
                   "type": "div",
                   "props": {},
-                  "styles": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "10px",
+                      "display": "flex",
+                      "alignItems": "center",
+                      "paddingTop": "15px",
+                      "paddingLeft": "15px",
+                      "paddingRight": "15px",
+                      "flexDirection": "column",
+                      "paddingBottom": "15px",
+                      "justifyContent": "center",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
                   "children": [
                     {
                       "id": "ai_feat3_h",
@@ -987,7 +1069,12 @@
                         "text": "AI Insights",
                         "level": "h3"
                       },
-                      "styles": {}
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "18px",
+                          "fontWeight": "500"
+                        }
+                      }
                     },
                     {
                       "id": "ai_feat3_p",
@@ -995,7 +1082,11 @@
                       "props": {
                         "text": "Leverage machine learning to discover hidden trends."
                       },
-                      "styles": {}
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "14px"
+                        }
+                      }
                     }
                   ]
                 }
@@ -1016,6 +1107,8 @@
         },
         "desktop": {
           "paddingTop": "60px",
+          "paddingLeft": "40px",
+          "paddingRight": "40px",
           "paddingBottom": "60px",
           "backgroundColor": "#ffffff"
         }
