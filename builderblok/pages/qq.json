@@ -485,6 +485,7 @@
                 "limit": 6,
                 "source": "marketing-site/faq"
               },
+              "items": [],
               "styles": {}
             }
           ]

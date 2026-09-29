@@ -10,6 +10,11 @@
       "route": "/about",
       "name": "about",
       "file": "pages/about.json"
+    },
+    {
+      "route": "/test",
+      "name": "test",
+      "file": "pages/test.json"
     }
   ]
 }
