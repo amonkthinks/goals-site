@@ -1,0 +1,522 @@
+{
+  "schemaVersion": 1,
+  "name": "about",
+  "slug": "about",
+  "route": "/about",
+  "description": null,
+  "breakpoints": {
+    "tablet": 991,
+    "mobile": 478
+  },
+  "blocks": [
+    {
+      "id": "ai_b1",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "desktop": {
+          "backgroundColor": "#f8fafc"
+        }
+      },
+      "children": [
+        {
+          "id": "ai_b2",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "paddingLeft": "16px",
+              "paddingRight": "16px"
+            }
+          },
+          "children": [
+            {
+              "id": "ai_b3",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gap": "16px",
+                  "alignItems": "flex-start",
+                  "flexDirection": "column"
+                },
+                "desktop": {
+                  "display": "flex",
+                  "alignItems": "center",
+                  "paddingTop": "24px",
+                  "paddingBottom": "24px",
+                  "justifyContent": "space-between"
+                }
+              },
+              "children": [
+                {
+                  "id": "ai_b4",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "color": "#0f172a",
+                      "fontSize": "24px",
+                      "fontWeight": "700"
+                    }
+                  }
+                },
+                {
+                  "id": "ai_b5",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "gap": "12px",
+                      "flexDirection": "column"
+                    },
+                    "desktop": {
+                      "gap": "24px",
+                      "display": "flex"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "ai_b7",
+                      "type": "link",
+                      "props": {
+                        "href": "/",
+                        "text": "Home"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#0f172a",
+                          "textDecoration": "none"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_b8",
+                      "type": "link",
+                      "props": {
+                        "href": "/about",
+                        "text": "About"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#0f172a",
+                          "textDecoration": "none"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_b9",
+                      "type": "link",
+                      "props": {
+                        "href": "/features",
+                        "text": "Features"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#0f172a",
+                          "textDecoration": "none"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_b10",
+                      "type": "link",
+                      "props": {
+                        "href": "/contact",
+                        "text": "Contact"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#0f172a",
+                          "textDecoration": "none"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "ai_b6",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "marginTop": "12px"
+                    },
+                    "desktop": {
+                      "gap": "12px",
+                      "display": "flex"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "ai_b11",
+                      "type": "button",
+                      "props": {
+                        "href": "/login",
+                        "text": "Log In"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "border": "none",
+                          "cursor": "pointer",
+                          "padding": "8px 16px",
+                          "borderRadius": "4px",
+                          "backgroundColor": "#2563eb"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_b12",
+                      "type": "button",
+                      "props": {
+                        "href": "/signup",
+                        "text": "Sign Up"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "border": "none",
+                          "cursor": "pointer",
+                          "padding": "8px 16px",
+                          "borderRadius": "4px",
+                          "backgroundColor": "#1e40af"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai_b13",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "60px",
+          "paddingBottom": "60px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#ffffff"
+        }
+      },
+      "children": [
+        {
+          "id": "ai_b14",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "paddingLeft": "16px",
+              "paddingRight": "16px"
+            }
+          },
+          "children": [
+            {
+              "id": "ai_b15",
+              "type": "heading",
+              "props": {
+                "text": "About Goals",
+                "level": "h1"
+              },
+              "styles": {
+                "mobile": {
+                  "fontSize": "36px"
+                },
+                "desktop": {
+                  "color": "#0f172a",
+                  "fontSize": "48px",
+                  "fontWeight": "700",
+                  "marginBottom": "16px"
+                }
+              }
+            },
+            {
+              "id": "ai_b16",
+              "type": "paragraph",
+              "props": {
+                "text": "Goals is a productivity platform that helps teams set, track, and achieve their objectives with clarity and confidence. Our intuitive dashboards, real‑time collaboration tools, and data‑driven insights empower organizations to stay aligned and move forward together."
+              },
+              "styles": {
+                "mobile": {
+                  "fontSize": "16px"
+                },
+                "desktop": {
+                  "color": "#334155",
+                  "fontSize": "18px",
+                  "lineHeight": "1.6",
+                  "marginBottom": "24px"
+                }
+              }
+            },
+            {
+              "id": "ai_b17",
+              "type": "button",
+              "props": {
+                "href": "/features",
+                "text": "Learn More"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#ffffff",
+                  "border": "none",
+                  "cursor": "pointer",
+                  "padding": "12px 24px",
+                  "borderRadius": "4px",
+                  "backgroundColor": "#1e40af"
+                }
+              }
+            },
+            {
+              "id": "ai_b18",
+              "type": "divider",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "margin": "40px 0",
+                  "borderTop": "1px solid #e2e8f0"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai_b19",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "60px",
+          "paddingBottom": "60px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#f8fafc"
+        }
+      },
+      "children": [
+        {
+          "id": "ai_b20",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1200px",
+              "paddingLeft": "16px",
+              "paddingRight": "16px"
+            }
+          },
+          "children": [
+            {
+              "id": "ai_b21",
+              "type": "heading",
+              "props": {
+                "text": "Our Team",
+                "level": "h2"
+              },
+              "styles": {
+                "mobile": {
+                  "fontSize": "28px"
+                },
+                "desktop": {
+                  "color": "#0f172a",
+                  "fontSize": "36px",
+                  "fontWeight": "700",
+                  "marginBottom": "32px"
+                }
+              }
+            },
+            {
+              "id": "ai_b22",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "desktop": {
+                  "gap": "24px",
+                  "display": "grid",
+                  "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "ai_b23",
+                  "type": "div",
+                  "props": {},
+                  "styles": {},
+                  "children": [
+                    {
+                      "id": "ai_b24",
+                      "type": "image",
+                      "props": {
+                        "alt": "Alex Johnson",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "borderRadius": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_b25",
+                      "type": "heading",
+                      "props": {
+                        "text": "Alex Johnson",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "mobile": {
+                          "fontSize": "20px"
+                        },
+                        "desktop": {
+                          "fontSize": "24px",
+                          "marginTop": "12px",
+                          "fontWeight": "600"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_b26",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Co‑Founder & CEO"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "16px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "ai_b27",
+                  "type": "div",
+                  "props": {},
+                  "styles": {},
+                  "children": [
+                    {
+                      "id": "ai_b28",
+                      "type": "image",
+                      "props": {
+                        "alt": "Maria Lopez",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "borderRadius": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_b29",
+                      "type": "heading",
+                      "props": {
+                        "text": "Maria Lopez",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "mobile": {
+                          "fontSize": "20px"
+                        },
+                        "desktop": {
+                          "fontSize": "24px",
+                          "marginTop": "12px",
+                          "fontWeight": "600"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_b30",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Chief Product Officer"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "16px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "ai_b31",
+                  "type": "div",
+                  "props": {},
+                  "styles": {},
+                  "children": [
+                    {
+                      "id": "ai_b32",
+                      "type": "image",
+                      "props": {
+                        "alt": "Sam Patel",
+                        "src": ""
+                      },
+                      "styles": {
+                        "desktop": {
+                          "width": "100%",
+                          "borderRadius": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_b33",
+                      "type": "heading",
+                      "props": {
+                        "text": "Sam Patel",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "mobile": {
+                          "fontSize": "20px"
+                        },
+                        "desktop": {
+                          "fontSize": "24px",
+                          "marginTop": "12px",
+                          "fontWeight": "600"
+                        }
+                      }
+                    },
+                    {
+                      "id": "ai_b34",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Lead Engineer"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "16px"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

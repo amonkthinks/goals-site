@@ -5,6 +5,11 @@
       "route": "/",
       "name": "qq",
       "file": "pages/qq.json"
+    },
+    {
+      "route": "/about",
+      "name": "about",
+      "file": "pages/about.json"
     }
   ]
 }
