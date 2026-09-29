@@ -1,0 +1,4703 @@
+{
+  "schemaVersion": 1,
+  "name": "pricing",
+  "slug": "pricing",
+  "route": "/pricing",
+  "description": null,
+  "breakpoints": {
+    "tablet": 991,
+    "mobile": 478
+  },
+  "blocks": [
+    {
+      "id": "blk_mumhsgph949",
+      "type": "section",
+      "props": {
+        "htmlId": "nav"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "10px",
+          "paddingLeft": "12px",
+          "paddingRight": "12px",
+          "paddingBottom": "10px"
+        },
+        "desktop": {
+          "top": "0px",
+          "zIndex": "50",
+          "position": "sticky",
+          "paddingTop": "16px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "16px"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumhsgpi950",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "mobile": {
+              "paddingLeft": "18px"
+            },
+            "desktop": {
+              "gap": "24px",
+              "width": "100%",
+              "display": "flex",
+              "maxWidth": "920px",
+              "boxShadow": "0 10px 30px -12px rgba(15, 23, 42, 0.25)",
+              "alignItems": "center",
+              "marginLeft": "auto",
+              "paddingTop": "10px",
+              "borderColor": "rgba(15, 23, 42, 0.08)",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "marginRight": "auto",
+              "paddingLeft": "24px",
+              "borderRadius": "999px",
+              "paddingRight": "10px",
+              "paddingBottom": "10px",
+              "backdropFilter": "blur(12px)",
+              "justifyContent": "space-between",
+              "backgroundColor": "rgba(255, 255, 255, 0.72)"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumhsgpi951",
+              "type": "heading",
+              "props": {
+                "text": "GoZen",
+                "level": "h4"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#0f172a",
+                  "fontSize": "22px",
+                  "marginTop": "0px",
+                  "fontWeight": "700",
+                  "lineHeight": "1.2",
+                  "marginBottom": "0px",
+                  "letterSpacing": "-0.02em"
+                }
+              }
+            },
+            {
+              "id": "blk_mumhsgpi952",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "display": "none"
+                },
+                "desktop": {
+                  "gap": "28px",
+                  "display": "flex",
+                  "alignItems": "center"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhsgpi953",
+                  "type": "link",
+                  "props": {
+                    "href": "#",
+                    "text": "Product",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#334155",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhsgpi954",
+                  "type": "link",
+                  "props": {
+                    "href": "#",
+                    "text": "Solutions",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#334155",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhsgpi955",
+                  "type": "link",
+                  "props": {
+                    "href": "#",
+                    "text": "Pricing",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#334155",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhsgpi956",
+                  "type": "link",
+                  "props": {
+                    "href": "#",
+                    "text": "Resources",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#334155",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "blk_mumhsgpi957",
+              "type": "button",
+              "props": {
+                "href": "#",
+                "text": "Start free",
+                "newTab": false
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#ffffff",
+                  "display": "inline-block",
+                  "fontWeight": "500",
+                  "paddingTop": "10px",
+                  "paddingLeft": "20px",
+                  "borderRadius": "999px",
+                  "paddingRight": "20px",
+                  "paddingBottom": "10px",
+                  "textDecoration": "none",
+                  "backgroundColor": "#4f46e5"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumht105958",
+      "type": "section",
+      "props": {
+        "htmlId": "hero"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "72px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "72px"
+        },
+        "tablet": {
+          "paddingTop": "104px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "104px"
+        },
+        "desktop": {
+          "paddingTop": "140px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "140px",
+          "backgroundColor": "#f5f7ff",
+          "backgroundImage": "radial-gradient(60% 60% at 50% 0%, rgba(99, 102, 241, 0.22) 0%, rgba(255, 255, 255, 0) 70%)"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumht105959",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "maxWidth": "820px",
+              "textAlign": "center",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumht105960",
+              "type": "paragraph",
+              "props": {
+                "text": "New — AI automations are here"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#4f46e5",
+                  "display": "inline-block",
+                  "fontSize": "13px",
+                  "marginTop": "0px",
+                  "fontWeight": "600",
+                  "lineHeight": "1.6",
+                  "paddingTop": "6px",
+                  "paddingLeft": "14px",
+                  "borderRadius": "999px",
+                  "marginBottom": "20px",
+                  "paddingRight": "14px",
+                  "paddingBottom": "6px",
+                  "backgroundColor": "#eef2ff"
+                }
+              }
+            },
+            {
+              "id": "blk_mumht105961",
+              "type": "heading",
+              "props": {
+                "text": "Grow faster with every tool in one place",
+                "level": "h1"
+              },
+              "styles": {
+                "mobile": {
+                  "fontSize": "36px"
+                },
+                "tablet": {
+                  "fontSize": "52px"
+                },
+                "desktop": {
+                  "fontSize": "68px",
+                  "marginTop": "0px",
+                  "fontWeight": "700",
+                  "lineHeight": "1.08",
+                  "marginBottom": "20px",
+                  "letterSpacing": "-0.03em"
+                }
+              }
+            },
+            {
+              "id": "blk_mumht105962",
+              "type": "paragraph",
+              "props": {
+                "text": "Forms, email, automation and analytics — built to work together, so your team ships campaigns in hours, not weeks."
+              },
+              "styles": {
+                "mobile": {
+                  "fontSize": "17px"
+                },
+                "desktop": {
+                  "color": "#475569",
+                  "fontSize": "20px",
+                  "marginTop": "0px",
+                  "lineHeight": "1.6",
+                  "marginBottom": "36px"
+                }
+              }
+            },
+            {
+              "id": "blk_mumht105963",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "textAlign": "center",
+                  "alignItems": "stretch",
+                  "flexDirection": "column"
+                },
+                "desktop": {
+                  "gap": "12px",
+                  "display": "flex",
+                  "flexWrap": "wrap",
+                  "alignItems": "center",
+                  "justifyContent": "center"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumht105964",
+                  "type": "button",
+                  "props": {
+                    "href": "#",
+                    "text": "Start free trial",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#ffffff",
+                      "display": "inline-block",
+                      "fontWeight": "500",
+                      "paddingTop": "14px",
+                      "paddingLeft": "28px",
+                      "borderRadius": "6px",
+                      "paddingRight": "28px",
+                      "paddingBottom": "14px",
+                      "textDecoration": "none",
+                      "backgroundColor": "#0f172a"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumht105965",
+                  "type": "button",
+                  "props": {
+                    "href": "#",
+                    "text": "Book a demo",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#0f172a",
+                      "display": "inline-block",
+                      "fontWeight": "500",
+                      "paddingTop": "14px",
+                      "borderColor": "#cbd5e1",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "28px",
+                      "borderRadius": "6px",
+                      "paddingRight": "28px",
+                      "paddingBottom": "14px",
+                      "textDecoration": "none",
+                      "backgroundColor": "#ffffff"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumhupbp1002",
+      "type": "section",
+      "props": {
+        "htmlId": "logos"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "36px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "paddingBottom": "36px"
+        },
+        "desktop": {
+          "overflow": "hidden",
+          "paddingTop": "48px",
+          "paddingLeft": "0px",
+          "paddingRight": "0px",
+          "paddingBottom": "48px",
+          "backgroundColor": "#f8fafc"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumhupbp1003",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "maxWidth": "none",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumhupbp1004",
+              "type": "paragraph",
+              "props": {
+                "text": "Powering growth at fast-moving companies"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#64748b",
+                  "fontSize": "14px",
+                  "marginTop": "0px",
+                  "textAlign": "center",
+                  "lineHeight": "1.6",
+                  "marginBottom": "28px"
+                }
+              }
+            },
+            {
+              "id": "blk_mumhupbp1005",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gap": "44px",
+                  "animation": "bb-marquee 22s linear infinite"
+                },
+                "desktop": {
+                  "gap": "72px",
+                  "width": "max-content",
+                  "display": "flex",
+                  "animation": "bb-marquee 32s linear infinite"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhupbp1006",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Northwind"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1007",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Globex"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1008",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Acme"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1009",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Initech"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1010",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Umbrella"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1011",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Hooli"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1012",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Vandelay"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1013",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Stark"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1014",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Northwind"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1015",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Globex"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1016",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Acme"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1017",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Initech"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1018",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Umbrella"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1019",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Hooli"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1020",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Vandelay"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhupbq1021",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Stark"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "24px",
+                      "marginTop": "0px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.6",
+                      "whiteSpace": "nowrap",
+                      "marginBottom": "0px",
+                      "letterSpacing": "-0.02em"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumhuyek1022",
+      "type": "section",
+      "props": {
+        "htmlId": "features"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "80px"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumhuyek1023",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "maxWidth": "1140px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumhuyek1024",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "maxWidth": "680px",
+                  "textAlign": "center",
+                  "marginLeft": "auto",
+                  "marginRight": "auto",
+                  "marginBottom": "48px"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhuyek1025",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "How it works"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#4f46e5",
+                      "display": "inline-block",
+                      "fontSize": "13px",
+                      "marginTop": "0px",
+                      "fontWeight": "600",
+                      "lineHeight": "1.6",
+                      "paddingTop": "6px",
+                      "paddingLeft": "14px",
+                      "borderRadius": "999px",
+                      "marginBottom": "20px",
+                      "paddingRight": "14px",
+                      "paddingBottom": "6px",
+                      "backgroundColor": "#eef2ff"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhuyek1026",
+                  "type": "heading",
+                  "props": {
+                    "text": "From first click to loyal customer",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "28px"
+                    },
+                    "tablet": {
+                      "fontSize": "34px"
+                    },
+                    "desktop": {
+                      "fontSize": "40px",
+                      "marginTop": "0px",
+                      "fontWeight": "700",
+                      "lineHeight": "1.08",
+                      "marginBottom": "12px",
+                      "letterSpacing": "-0.03em"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "blk_mumhuyek1027",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "marginBottom": "56px",
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "tablet": {
+                  "gap": "32px",
+                  "marginBottom": "72px",
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "desktop": {
+                  "gap": "64px",
+                  "display": "grid",
+                  "alignItems": "center",
+                  "marginBottom": "96px",
+                  "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhuyek1031",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {}
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhuyek1032",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Capture"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#4f46e5",
+                          "fontSize": "14px",
+                          "marginTop": "0px",
+                          "fontWeight": "600",
+                          "lineHeight": "1.6",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhuyek1033",
+                      "type": "heading",
+                      "props": {
+                        "text": "Collect leads from every channel",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "mobile": {
+                          "fontSize": "26px"
+                        },
+                        "tablet": {
+                          "fontSize": "30px"
+                        },
+                        "desktop": {
+                          "fontSize": "34px",
+                          "marginTop": "0px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.08",
+                          "marginBottom": "16px",
+                          "letterSpacing": "-0.03em"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhuyek1034",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Pop-ups, landing pages and embedded forms feed straight into one contact list."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "17px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "20px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhuyek1035",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Set up in minutes"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhuyek1036",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Works with your existing stack"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhuyek1037",
+                  "type": "image",
+                  "props": {
+                    "alt": "Collect leads from every channel",
+                    "src": "https://picsum.photos/seed/bb-feat-1/1200/900"
+                  },
+                  "styles": {
+                    "tablet": {
+                      "order": "-1"
+                    },
+                    "desktop": {
+                      "width": "100%",
+                      "display": "block",
+                      "objectFit": "cover",
+                      "aspectRatio": "4 / 3",
+                      "borderRadius": "18px"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "blk_mumhuyek1038",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "marginBottom": "56px",
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "tablet": {
+                  "gap": "32px",
+                  "marginBottom": "72px",
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "desktop": {
+                  "gap": "64px",
+                  "display": "grid",
+                  "alignItems": "center",
+                  "marginBottom": "96px",
+                  "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhuyek1042",
+                  "type": "image",
+                  "props": {
+                    "alt": "Send the right message at the right time",
+                    "src": "https://picsum.photos/seed/bb-feat-2/1200/900"
+                  },
+                  "styles": {
+                    "tablet": {
+                      "order": "-1"
+                    },
+                    "desktop": {
+                      "width": "100%",
+                      "display": "block",
+                      "objectFit": "cover",
+                      "aspectRatio": "4 / 3",
+                      "borderRadius": "18px"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhuyek1043",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {}
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhuyek1044",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Nurture"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#4f46e5",
+                          "fontSize": "14px",
+                          "marginTop": "0px",
+                          "fontWeight": "600",
+                          "lineHeight": "1.6",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhuyek1045",
+                      "type": "heading",
+                      "props": {
+                        "text": "Send the right message at the right time",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "mobile": {
+                          "fontSize": "26px"
+                        },
+                        "tablet": {
+                          "fontSize": "30px"
+                        },
+                        "desktop": {
+                          "fontSize": "34px",
+                          "marginTop": "0px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.08",
+                          "marginBottom": "16px",
+                          "letterSpacing": "-0.03em"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhuyek1046",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Automated journeys react to what each contact does — no manual follow-up."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "17px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "20px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhuyek1047",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Set up in minutes"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhuyek1048",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Works with your existing stack"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "blk_mumhuyek1049",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "marginBottom": "56px",
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "tablet": {
+                  "gap": "32px",
+                  "marginBottom": "72px",
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "desktop": {
+                  "gap": "64px",
+                  "display": "grid",
+                  "alignItems": "center",
+                  "marginBottom": "96px",
+                  "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhuyek1053",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {}
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhuyek1054",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Measure"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#4f46e5",
+                          "fontSize": "14px",
+                          "marginTop": "0px",
+                          "fontWeight": "600",
+                          "lineHeight": "1.6",
+                          "marginBottom": "12px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhuyek1055",
+                      "type": "heading",
+                      "props": {
+                        "text": "Know exactly what drives revenue",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "mobile": {
+                          "fontSize": "26px"
+                        },
+                        "tablet": {
+                          "fontSize": "30px"
+                        },
+                        "desktop": {
+                          "fontSize": "34px",
+                          "marginTop": "0px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.08",
+                          "marginBottom": "16px",
+                          "letterSpacing": "-0.03em"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhuyek1056",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Attribution reports tie every sale back to the campaign that earned it."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "17px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "20px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhuyek1057",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Set up in minutes"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhuyek1058",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Works with your existing stack"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhuyek1059",
+                  "type": "image",
+                  "props": {
+                    "alt": "Know exactly what drives revenue",
+                    "src": "https://picsum.photos/seed/bb-feat-3/1200/900"
+                  },
+                  "styles": {
+                    "tablet": {
+                      "order": "-1"
+                    },
+                    "desktop": {
+                      "width": "100%",
+                      "display": "block",
+                      "objectFit": "cover",
+                      "aspectRatio": "4 / 3",
+                      "borderRadius": "18px"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumhv8rc1060",
+      "type": "section",
+      "props": {
+        "htmlId": "features"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#f8fafc"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumhv8rc1061",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "maxWidth": "1140px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumhv8rc1062",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "maxWidth": "680px",
+                  "textAlign": "center",
+                  "marginLeft": "auto",
+                  "marginRight": "auto",
+                  "marginBottom": "48px"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhv8rc1063",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Features"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#4f46e5",
+                      "display": "inline-block",
+                      "fontSize": "13px",
+                      "marginTop": "0px",
+                      "fontWeight": "600",
+                      "lineHeight": "1.6",
+                      "paddingTop": "6px",
+                      "paddingLeft": "14px",
+                      "borderRadius": "999px",
+                      "marginBottom": "20px",
+                      "paddingRight": "14px",
+                      "paddingBottom": "6px",
+                      "backgroundColor": "#eef2ff"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhv8rc1064",
+                  "type": "heading",
+                  "props": {
+                    "text": "Everything you need to grow",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "28px"
+                    },
+                    "tablet": {
+                      "fontSize": "34px"
+                    },
+                    "desktop": {
+                      "fontSize": "40px",
+                      "marginTop": "0px",
+                      "fontWeight": "700",
+                      "lineHeight": "1.08",
+                      "marginBottom": "12px",
+                      "letterSpacing": "-0.03em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhv8rc1065",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Powerful building blocks that work together out of the box."
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#475569",
+                      "fontSize": "18px",
+                      "marginTop": "0px",
+                      "lineHeight": "1.6",
+                      "marginBottom": "0px"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "blk_mumhv8rc1066",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gridTemplateColumns": "repeat(1, minmax(0, 1fr))"
+                },
+                "tablet": {
+                  "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+                },
+                "desktop": {
+                  "gap": "24px",
+                  "display": "grid",
+                  "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhv8rc1070",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "paddingTop": "24px",
+                      "paddingLeft": "24px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px"
+                    },
+                    "desktop": {
+                      "paddingTop": "32px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "32px",
+                      "borderRadius": "16px",
+                      "paddingRight": "32px",
+                      "paddingBottom": "32px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhv8rc1071",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "width": "48px",
+                          "height": "48px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "borderRadius": "12px",
+                          "marginBottom": "20px",
+                          "justifyContent": "center",
+                          "backgroundColor": "#eef2ff"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhv8rc1072",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "⚡"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#475569",
+                              "fontSize": "22px",
+                              "marginTop": "0px",
+                              "lineHeight": "1",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhv8rc1073",
+                      "type": "heading",
+                      "props": {
+                        "text": "Automation",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "20px",
+                          "marginTop": "0px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.2",
+                          "marginBottom": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhv8rc1074",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Build flows once and let them run — triggers, delays and branches included."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhv8rc1075",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "paddingTop": "24px",
+                      "paddingLeft": "24px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px"
+                    },
+                    "desktop": {
+                      "paddingTop": "32px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "32px",
+                      "borderRadius": "16px",
+                      "paddingRight": "32px",
+                      "paddingBottom": "32px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhv8rc1076",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "width": "48px",
+                          "height": "48px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "borderRadius": "12px",
+                          "marginBottom": "20px",
+                          "justifyContent": "center",
+                          "backgroundColor": "#eef2ff"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhv8rc1077",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "📊"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#475569",
+                              "fontSize": "22px",
+                              "marginTop": "0px",
+                              "lineHeight": "1",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhv8rc1078",
+                      "type": "heading",
+                      "props": {
+                        "text": "Analytics",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "20px",
+                          "marginTop": "0px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.2",
+                          "marginBottom": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhv8rc1079",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "See what converts in real time, down to the individual campaign."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhv8rc1080",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "paddingTop": "24px",
+                      "paddingLeft": "24px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px"
+                    },
+                    "desktop": {
+                      "paddingTop": "32px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "32px",
+                      "borderRadius": "16px",
+                      "paddingRight": "32px",
+                      "paddingBottom": "32px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhv8rc1081",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "width": "48px",
+                          "height": "48px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "borderRadius": "12px",
+                          "marginBottom": "20px",
+                          "justifyContent": "center",
+                          "backgroundColor": "#eef2ff"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhv8rc1082",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "🔌"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#475569",
+                              "fontSize": "22px",
+                              "marginTop": "0px",
+                              "lineHeight": "1",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhv8rc1083",
+                      "type": "heading",
+                      "props": {
+                        "text": "Integrations",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "20px",
+                          "marginTop": "0px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.2",
+                          "marginBottom": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhv8rc1084",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Connect 100+ tools in one click, no code required."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhv8rc1085",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "paddingTop": "24px",
+                      "paddingLeft": "24px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px"
+                    },
+                    "desktop": {
+                      "paddingTop": "32px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "32px",
+                      "borderRadius": "16px",
+                      "paddingRight": "32px",
+                      "paddingBottom": "32px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhv8rc1086",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "width": "48px",
+                          "height": "48px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "borderRadius": "12px",
+                          "marginBottom": "20px",
+                          "justifyContent": "center",
+                          "backgroundColor": "#eef2ff"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhv8rc1087",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "✉️"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#475569",
+                              "fontSize": "22px",
+                              "marginTop": "0px",
+                              "lineHeight": "1",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhv8rc1088",
+                      "type": "heading",
+                      "props": {
+                        "text": "Email",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "20px",
+                          "marginTop": "0px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.2",
+                          "marginBottom": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhv8rc1089",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Beautiful, responsive emails with a drag-and-drop editor."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhv8rc1090",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "paddingTop": "24px",
+                      "paddingLeft": "24px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px"
+                    },
+                    "desktop": {
+                      "paddingTop": "32px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "32px",
+                      "borderRadius": "16px",
+                      "paddingRight": "32px",
+                      "paddingBottom": "32px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhv8rc1091",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "width": "48px",
+                          "height": "48px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "borderRadius": "12px",
+                          "marginBottom": "20px",
+                          "justifyContent": "center",
+                          "backgroundColor": "#eef2ff"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhv8rc1092",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "🧩"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#475569",
+                              "fontSize": "22px",
+                              "marginTop": "0px",
+                              "lineHeight": "1",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhv8rc1093",
+                      "type": "heading",
+                      "props": {
+                        "text": "Forms",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "20px",
+                          "marginTop": "0px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.2",
+                          "marginBottom": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhv8rc1094",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Capture leads anywhere with forms that match your brand."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhv8rc1095",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "paddingTop": "24px",
+                      "paddingLeft": "24px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px"
+                    },
+                    "desktop": {
+                      "paddingTop": "32px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "32px",
+                      "borderRadius": "16px",
+                      "paddingRight": "32px",
+                      "paddingBottom": "32px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhv8rc1096",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "width": "48px",
+                          "height": "48px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "borderRadius": "12px",
+                          "marginBottom": "20px",
+                          "justifyContent": "center",
+                          "backgroundColor": "#eef2ff"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhv8rc1097",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "🔒"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#475569",
+                              "fontSize": "22px",
+                              "marginTop": "0px",
+                              "lineHeight": "1",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhv8rc1098",
+                      "type": "heading",
+                      "props": {
+                        "text": "Security",
+                        "level": "h3"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "fontSize": "20px",
+                          "marginTop": "0px",
+                          "fontWeight": "700",
+                          "lineHeight": "1.2",
+                          "marginBottom": "8px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhv8rc1099",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "SSO, audit logs and SOC 2 compliance for peace of mind."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#475569",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumhvmek1100",
+      "type": "section",
+      "props": {
+        "htmlId": "wall-of-love"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "80px"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumhvmek1101",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "maxWidth": "1140px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumhvmek1102",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "maxWidth": "680px",
+                  "textAlign": "center",
+                  "marginLeft": "auto",
+                  "marginRight": "auto",
+                  "marginBottom": "48px"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhvmek1103",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Wall of love"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#4f46e5",
+                      "display": "inline-block",
+                      "fontSize": "13px",
+                      "marginTop": "0px",
+                      "fontWeight": "600",
+                      "lineHeight": "1.6",
+                      "paddingTop": "6px",
+                      "paddingLeft": "14px",
+                      "borderRadius": "999px",
+                      "marginBottom": "20px",
+                      "paddingRight": "14px",
+                      "paddingBottom": "6px",
+                      "backgroundColor": "#eef2ff"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhvmek1104",
+                  "type": "heading",
+                  "props": {
+                    "text": "Don’t take our word for it",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "28px"
+                    },
+                    "tablet": {
+                      "fontSize": "34px"
+                    },
+                    "desktop": {
+                      "fontSize": "40px",
+                      "marginTop": "0px",
+                      "fontWeight": "700",
+                      "lineHeight": "1.08",
+                      "marginBottom": "12px",
+                      "letterSpacing": "-0.03em"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "blk_mumhvmek1105",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "columnCount": "1"
+                },
+                "tablet": {
+                  "columnCount": "2"
+                },
+                "desktop": {
+                  "columnGap": "20px",
+                  "columnCount": "3"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhvmek1106",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "paddingTop": "24px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "breakInside": "avoid",
+                      "paddingLeft": "24px",
+                      "borderRadius": "16px",
+                      "marginBottom": "20px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhvmek1107",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "12px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "marginBottom": "14px",
+                          "justifyContent": "space-between"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhvmek1108",
+                          "type": "div",
+                          "props": {},
+                          "styles": {
+                            "desktop": {
+                              "gap": "12px",
+                              "display": "flex",
+                              "alignItems": "center"
+                            }
+                          },
+                          "children": [
+                            {
+                              "id": "blk_mumhvmek1109",
+                              "type": "div",
+                              "props": {},
+                              "styles": {
+                                "desktop": {
+                                  "width": "44px",
+                                  "height": "44px",
+                                  "display": "flex",
+                                  "alignItems": "center",
+                                  "flexShrink": "0",
+                                  "borderRadius": "999px",
+                                  "justifyContent": "center",
+                                  "backgroundColor": "#4f46e5"
+                                }
+                              },
+                              "children": [
+                                {
+                                  "id": "blk_mumhvmek1110",
+                                  "type": "paragraph",
+                                  "props": {
+                                    "text": "SC"
+                                  },
+                                  "styles": {
+                                    "desktop": {
+                                      "color": "#ffffff",
+                                      "fontSize": "17px",
+                                      "marginTop": "0px",
+                                      "fontWeight": "700",
+                                      "lineHeight": "1",
+                                      "marginBottom": "0px"
+                                    }
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "blk_mumhvmek1111",
+                              "type": "div",
+                              "props": {},
+                              "styles": {
+                                "desktop": {}
+                              },
+                              "children": [
+                                {
+                                  "id": "blk_mumhvmek1112",
+                                  "type": "paragraph",
+                                  "props": {
+                                    "text": "Sarah Chen"
+                                  },
+                                  "styles": {
+                                    "desktop": {
+                                      "color": "#0f172a",
+                                      "fontSize": "15px",
+                                      "marginTop": "0px",
+                                      "fontWeight": "600",
+                                      "lineHeight": "1.6",
+                                      "marginBottom": "0px"
+                                    }
+                                  }
+                                },
+                                {
+                                  "id": "blk_mumhvmek1113",
+                                  "type": "paragraph",
+                                  "props": {
+                                    "text": "@sarahgrows"
+                                  },
+                                  "styles": {
+                                    "desktop": {
+                                      "color": "#64748b",
+                                      "fontSize": "14px",
+                                      "marginTop": "0px",
+                                      "lineHeight": "1.6",
+                                      "marginBottom": "0px"
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "blk_mumhvmek1114",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "𝕏"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#0f172a",
+                              "fontSize": "18px",
+                              "marginTop": "0px",
+                              "lineHeight": "1.6",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhvmek1115",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Moved our whole funnel to @gozen this week. Launch day went from 3 days to 3 hours. Wild."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhvmek1116",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "paddingTop": "28px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "breakInside": "avoid",
+                      "paddingLeft": "28px",
+                      "borderRadius": "16px",
+                      "marginBottom": "20px",
+                      "paddingRight": "28px",
+                      "paddingBottom": "28px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhvmek1117",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "★★★★★"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f59e0b",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "12px",
+                          "letterSpacing": "2px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhvmek1118",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "“The automations alone paid for the whole year in the first month.”"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "24px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhvmek1119",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "12px",
+                          "display": "flex",
+                          "alignItems": "center"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhvmek1120",
+                          "type": "div",
+                          "props": {},
+                          "styles": {
+                            "desktop": {
+                              "width": "44px",
+                              "height": "44px",
+                              "display": "flex",
+                              "alignItems": "center",
+                              "flexShrink": "0",
+                              "borderRadius": "999px",
+                              "justifyContent": "center",
+                              "backgroundColor": "#0891b2"
+                            }
+                          },
+                          "children": [
+                            {
+                              "id": "blk_mumhvmek1121",
+                              "type": "paragraph",
+                              "props": {
+                                "text": "MR"
+                              },
+                              "styles": {
+                                "desktop": {
+                                  "color": "#ffffff",
+                                  "fontSize": "17px",
+                                  "marginTop": "0px",
+                                  "fontWeight": "700",
+                                  "lineHeight": "1",
+                                  "marginBottom": "0px"
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "blk_mumhvmek1122",
+                          "type": "div",
+                          "props": {},
+                          "styles": {
+                            "desktop": {}
+                          },
+                          "children": [
+                            {
+                              "id": "blk_mumhvmek1123",
+                              "type": "paragraph",
+                              "props": {
+                                "text": "Marcus Reid"
+                              },
+                              "styles": {
+                                "desktop": {
+                                  "color": "#0f172a",
+                                  "fontSize": "15px",
+                                  "marginTop": "0px",
+                                  "fontWeight": "600",
+                                  "lineHeight": "1.6",
+                                  "marginBottom": "0px"
+                                }
+                              }
+                            },
+                            {
+                              "id": "blk_mumhvmek1124",
+                              "type": "paragraph",
+                              "props": {
+                                "text": "CMO, Globex"
+                              },
+                              "styles": {
+                                "desktop": {
+                                  "color": "#64748b",
+                                  "fontSize": "14px",
+                                  "marginTop": "0px",
+                                  "lineHeight": "1.6",
+                                  "marginBottom": "0px"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhvmek1125",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "paddingTop": "24px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "breakInside": "avoid",
+                      "paddingLeft": "24px",
+                      "borderRadius": "16px",
+                      "marginBottom": "20px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhvmek1126",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "12px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "marginBottom": "14px",
+                          "justifyContent": "space-between"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhvmek1127",
+                          "type": "div",
+                          "props": {},
+                          "styles": {
+                            "desktop": {
+                              "gap": "12px",
+                              "display": "flex",
+                              "alignItems": "center"
+                            }
+                          },
+                          "children": [
+                            {
+                              "id": "blk_mumhvmek1128",
+                              "type": "div",
+                              "props": {},
+                              "styles": {
+                                "desktop": {
+                                  "width": "44px",
+                                  "height": "44px",
+                                  "display": "flex",
+                                  "alignItems": "center",
+                                  "flexShrink": "0",
+                                  "borderRadius": "999px",
+                                  "justifyContent": "center",
+                                  "backgroundColor": "#db2777"
+                                }
+                              },
+                              "children": [
+                                {
+                                  "id": "blk_mumhvmek1129",
+                                  "type": "paragraph",
+                                  "props": {
+                                    "text": "AP"
+                                  },
+                                  "styles": {
+                                    "desktop": {
+                                      "color": "#ffffff",
+                                      "fontSize": "17px",
+                                      "marginTop": "0px",
+                                      "fontWeight": "700",
+                                      "lineHeight": "1",
+                                      "marginBottom": "0px"
+                                    }
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "blk_mumhvmek1130",
+                              "type": "div",
+                              "props": {},
+                              "styles": {
+                                "desktop": {}
+                              },
+                              "children": [
+                                {
+                                  "id": "blk_mumhvmek1131",
+                                  "type": "paragraph",
+                                  "props": {
+                                    "text": "Aisha Patel"
+                                  },
+                                  "styles": {
+                                    "desktop": {
+                                      "color": "#0f172a",
+                                      "fontSize": "15px",
+                                      "marginTop": "0px",
+                                      "fontWeight": "600",
+                                      "lineHeight": "1.6",
+                                      "marginBottom": "0px"
+                                    }
+                                  }
+                                },
+                                {
+                                  "id": "blk_mumhvmek1132",
+                                  "type": "paragraph",
+                                  "props": {
+                                    "text": "@aisha_mkt"
+                                  },
+                                  "styles": {
+                                    "desktop": {
+                                      "color": "#64748b",
+                                      "fontSize": "14px",
+                                      "marginTop": "0px",
+                                      "lineHeight": "1.6",
+                                      "marginBottom": "0px"
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "blk_mumhvmek1133",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "𝕏"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#0f172a",
+                              "fontSize": "18px",
+                              "marginTop": "0px",
+                              "lineHeight": "1.6",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhvmek1134",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "The visual builder is so good I stopped asking devs for landing pages 🙌"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhvmek1135",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "paddingTop": "28px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "breakInside": "avoid",
+                      "paddingLeft": "28px",
+                      "borderRadius": "16px",
+                      "marginBottom": "20px",
+                      "paddingRight": "28px",
+                      "paddingBottom": "28px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhvmek1136",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "★★★★★"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f59e0b",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "12px",
+                          "letterSpacing": "2px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhvmek1137",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "“Our email revenue grew 48% after moving over. The reporting shows exactly why.”"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "24px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhvmek1138",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "12px",
+                          "display": "flex",
+                          "alignItems": "center"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhvmek1139",
+                          "type": "div",
+                          "props": {},
+                          "styles": {
+                            "desktop": {
+                              "width": "44px",
+                              "height": "44px",
+                              "display": "flex",
+                              "alignItems": "center",
+                              "flexShrink": "0",
+                              "borderRadius": "999px",
+                              "justifyContent": "center",
+                              "backgroundColor": "#ea580c"
+                            }
+                          },
+                          "children": [
+                            {
+                              "id": "blk_mumhvmek1140",
+                              "type": "paragraph",
+                              "props": {
+                                "text": "EM"
+                              },
+                              "styles": {
+                                "desktop": {
+                                  "color": "#ffffff",
+                                  "fontSize": "17px",
+                                  "marginTop": "0px",
+                                  "fontWeight": "700",
+                                  "lineHeight": "1",
+                                  "marginBottom": "0px"
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "blk_mumhvmek1141",
+                          "type": "div",
+                          "props": {},
+                          "styles": {
+                            "desktop": {}
+                          },
+                          "children": [
+                            {
+                              "id": "blk_mumhvmek1142",
+                              "type": "paragraph",
+                              "props": {
+                                "text": "Elena Morales"
+                              },
+                              "styles": {
+                                "desktop": {
+                                  "color": "#0f172a",
+                                  "fontSize": "15px",
+                                  "marginTop": "0px",
+                                  "fontWeight": "600",
+                                  "lineHeight": "1.6",
+                                  "marginBottom": "0px"
+                                }
+                              }
+                            },
+                            {
+                              "id": "blk_mumhvmek1143",
+                              "type": "paragraph",
+                              "props": {
+                                "text": "Director, Umbrella"
+                              },
+                              "styles": {
+                                "desktop": {
+                                  "color": "#64748b",
+                                  "fontSize": "14px",
+                                  "marginTop": "0px",
+                                  "lineHeight": "1.6",
+                                  "marginBottom": "0px"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhvmek1144",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "paddingTop": "24px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "breakInside": "avoid",
+                      "paddingLeft": "24px",
+                      "borderRadius": "16px",
+                      "marginBottom": "20px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhvmek1145",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "12px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "marginBottom": "14px",
+                          "justifyContent": "space-between"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhvmek1146",
+                          "type": "div",
+                          "props": {},
+                          "styles": {
+                            "desktop": {
+                              "gap": "12px",
+                              "display": "flex",
+                              "alignItems": "center"
+                            }
+                          },
+                          "children": [
+                            {
+                              "id": "blk_mumhvmek1147",
+                              "type": "div",
+                              "props": {},
+                              "styles": {
+                                "desktop": {
+                                  "width": "44px",
+                                  "height": "44px",
+                                  "display": "flex",
+                                  "alignItems": "center",
+                                  "flexShrink": "0",
+                                  "borderRadius": "999px",
+                                  "justifyContent": "center",
+                                  "backgroundColor": "#16a34a"
+                                }
+                              },
+                              "children": [
+                                {
+                                  "id": "blk_mumhvmek1148",
+                                  "type": "paragraph",
+                                  "props": {
+                                    "text": "JL"
+                                  },
+                                  "styles": {
+                                    "desktop": {
+                                      "color": "#ffffff",
+                                      "fontSize": "17px",
+                                      "marginTop": "0px",
+                                      "fontWeight": "700",
+                                      "lineHeight": "1",
+                                      "marginBottom": "0px"
+                                    }
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "blk_mumhvmek1149",
+                              "type": "div",
+                              "props": {},
+                              "styles": {
+                                "desktop": {}
+                              },
+                              "children": [
+                                {
+                                  "id": "blk_mumhvmek1150",
+                                  "type": "paragraph",
+                                  "props": {
+                                    "text": "Jonas Lindqvist"
+                                  },
+                                  "styles": {
+                                    "desktop": {
+                                      "color": "#0f172a",
+                                      "fontSize": "15px",
+                                      "marginTop": "0px",
+                                      "fontWeight": "600",
+                                      "lineHeight": "1.6",
+                                      "marginBottom": "0px"
+                                    }
+                                  }
+                                },
+                                {
+                                  "id": "blk_mumhvmek1151",
+                                  "type": "paragraph",
+                                  "props": {
+                                    "text": "@jonasl"
+                                  },
+                                  "styles": {
+                                    "desktop": {
+                                      "color": "#64748b",
+                                      "fontSize": "14px",
+                                      "marginTop": "0px",
+                                      "lineHeight": "1.6",
+                                      "marginBottom": "0px"
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "blk_mumhvmek1152",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "𝕏"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#0f172a",
+                              "fontSize": "18px",
+                              "marginTop": "0px",
+                              "lineHeight": "1.6",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhvmek1153",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Support replied in 4 minutes on a Sunday. Who does that?!"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhvmek1154",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "paddingTop": "28px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "breakInside": "avoid",
+                      "paddingLeft": "28px",
+                      "borderRadius": "16px",
+                      "marginBottom": "20px",
+                      "paddingRight": "28px",
+                      "paddingBottom": "28px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhvmek1155",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "★★★★★"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#f59e0b",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "12px",
+                          "letterSpacing": "2px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhvmek1156",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "“Onboarding took an afternoon. I did not expect that from software this capable.”"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "16px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "24px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhvmek1157",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "12px",
+                          "display": "flex",
+                          "alignItems": "center"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhvmek1158",
+                          "type": "div",
+                          "props": {},
+                          "styles": {
+                            "desktop": {
+                              "width": "44px",
+                              "height": "44px",
+                              "display": "flex",
+                              "alignItems": "center",
+                              "flexShrink": "0",
+                              "borderRadius": "999px",
+                              "justifyContent": "center",
+                              "backgroundColor": "#7c3aed"
+                            }
+                          },
+                          "children": [
+                            {
+                              "id": "blk_mumhvmek1159",
+                              "type": "paragraph",
+                              "props": {
+                                "text": "DK"
+                              },
+                              "styles": {
+                                "desktop": {
+                                  "color": "#ffffff",
+                                  "fontSize": "17px",
+                                  "marginTop": "0px",
+                                  "fontWeight": "700",
+                                  "lineHeight": "1",
+                                  "marginBottom": "0px"
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "id": "blk_mumhvmek1160",
+                          "type": "div",
+                          "props": {},
+                          "styles": {
+                            "desktop": {}
+                          },
+                          "children": [
+                            {
+                              "id": "blk_mumhvmek1161",
+                              "type": "paragraph",
+                              "props": {
+                                "text": "David Kim"
+                              },
+                              "styles": {
+                                "desktop": {
+                                  "color": "#0f172a",
+                                  "fontSize": "15px",
+                                  "marginTop": "0px",
+                                  "fontWeight": "600",
+                                  "lineHeight": "1.6",
+                                  "marginBottom": "0px"
+                                }
+                              }
+                            },
+                            {
+                              "id": "blk_mumhvmek1162",
+                              "type": "paragraph",
+                              "props": {
+                                "text": "Ops Manager, Hooli"
+                              },
+                              "styles": {
+                                "desktop": {
+                                  "color": "#64748b",
+                                  "fontSize": "14px",
+                                  "marginTop": "0px",
+                                  "lineHeight": "1.6",
+                                  "marginBottom": "0px"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhvmek1163",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "paddingTop": "24px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "breakInside": "avoid",
+                      "paddingLeft": "24px",
+                      "borderRadius": "16px",
+                      "marginBottom": "20px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "24px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhvmek1164",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "12px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "marginBottom": "14px",
+                          "justifyContent": "space-between"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhvmek1165",
+                          "type": "div",
+                          "props": {},
+                          "styles": {
+                            "desktop": {
+                              "gap": "12px",
+                              "display": "flex",
+                              "alignItems": "center"
+                            }
+                          },
+                          "children": [
+                            {
+                              "id": "blk_mumhvmek1166",
+                              "type": "div",
+                              "props": {},
+                              "styles": {
+                                "desktop": {
+                                  "width": "44px",
+                                  "height": "44px",
+                                  "display": "flex",
+                                  "alignItems": "center",
+                                  "flexShrink": "0",
+                                  "borderRadius": "999px",
+                                  "justifyContent": "center",
+                                  "backgroundColor": "#0891b2"
+                                }
+                              },
+                              "children": [
+                                {
+                                  "id": "blk_mumhvmek1167",
+                                  "type": "paragraph",
+                                  "props": {
+                                    "text": "MR"
+                                  },
+                                  "styles": {
+                                    "desktop": {
+                                      "color": "#ffffff",
+                                      "fontSize": "17px",
+                                      "marginTop": "0px",
+                                      "fontWeight": "700",
+                                      "lineHeight": "1",
+                                      "marginBottom": "0px"
+                                    }
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "blk_mumhvmek1168",
+                              "type": "div",
+                              "props": {},
+                              "styles": {
+                                "desktop": {}
+                              },
+                              "children": [
+                                {
+                                  "id": "blk_mumhvmek1169",
+                                  "type": "paragraph",
+                                  "props": {
+                                    "text": "Marcus Reid"
+                                  },
+                                  "styles": {
+                                    "desktop": {
+                                      "color": "#0f172a",
+                                      "fontSize": "15px",
+                                      "marginTop": "0px",
+                                      "fontWeight": "600",
+                                      "lineHeight": "1.6",
+                                      "marginBottom": "0px"
+                                    }
+                                  }
+                                },
+                                {
+                                  "id": "blk_mumhvmek1170",
+                                  "type": "paragraph",
+                                  "props": {
+                                    "text": "@marcus_r"
+                                  },
+                                  "styles": {
+                                    "desktop": {
+                                      "color": "#64748b",
+                                      "fontSize": "14px",
+                                      "marginTop": "0px",
+                                      "lineHeight": "1.6",
+                                      "marginBottom": "0px"
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "blk_mumhvmek1171",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "𝕏"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#0f172a",
+                              "fontSize": "18px",
+                              "marginTop": "0px",
+                              "lineHeight": "1.6",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhvmek1172",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Automation flows are chef’s kiss. Set up once, revenue every day."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "0px"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumhwf1t1173",
+      "type": "section",
+      "props": {
+        "htmlId": "pricing"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#f8fafc"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumhwf1t1174",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "maxWidth": "1140px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumhwf1t1175",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "maxWidth": "680px",
+                  "textAlign": "center",
+                  "marginLeft": "auto",
+                  "marginRight": "auto",
+                  "marginBottom": "48px"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhwf1t1176",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Pricing"
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#4f46e5",
+                      "display": "inline-block",
+                      "fontSize": "13px",
+                      "marginTop": "0px",
+                      "fontWeight": "600",
+                      "lineHeight": "1.6",
+                      "paddingTop": "6px",
+                      "paddingLeft": "14px",
+                      "borderRadius": "999px",
+                      "marginBottom": "20px",
+                      "paddingRight": "14px",
+                      "paddingBottom": "6px",
+                      "backgroundColor": "#eef2ff"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhwf1t1177",
+                  "type": "heading",
+                  "props": {
+                    "text": "Pay monthly, or save 20% yearly",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "28px"
+                    },
+                    "tablet": {
+                      "fontSize": "34px"
+                    },
+                    "desktop": {
+                      "fontSize": "40px",
+                      "marginTop": "0px",
+                      "fontWeight": "700",
+                      "lineHeight": "1.08",
+                      "marginBottom": "12px",
+                      "letterSpacing": "-0.03em"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "blk_mumhwf1t1178",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "display": "flex",
+                  "marginBottom": "48px",
+                  "justifyContent": "center"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhwf1t1179",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "desktop": {
+                      "gap": "4px",
+                      "display": "inline-flex",
+                      "alignItems": "center",
+                      "paddingTop": "4px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "4px",
+                      "borderRadius": "999px",
+                      "paddingRight": "4px",
+                      "paddingBottom": "4px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhwf1t1180",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "Monthly"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "cursor": "pointer",
+                          "fontSize": "14px",
+                          "marginTop": "0px",
+                          "fontWeight": "600",
+                          "lineHeight": "1.6",
+                          "paddingTop": "10px",
+                          "paddingLeft": "22px",
+                          "borderRadius": "999px",
+                          "marginBottom": "0px",
+                          "paddingRight": "22px",
+                          "paddingBottom": "10px",
+                          "backgroundColor": "#0f172a"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1181",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "8px",
+                          "cursor": "pointer",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "paddingTop": "10px",
+                          "paddingLeft": "18px",
+                          "paddingRight": "18px",
+                          "paddingBottom": "10px"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhwf1t1182",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "Annual"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#334155",
+                              "fontSize": "14px",
+                              "marginTop": "0px",
+                              "fontWeight": "600",
+                              "lineHeight": "1.6",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        },
+                        {
+                          "id": "blk_mumhwf1t1183",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "−20%"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#15803d",
+                              "fontSize": "12px",
+                              "marginTop": "0px",
+                              "fontWeight": "700",
+                              "lineHeight": "1.6",
+                              "paddingTop": "2px",
+                              "paddingLeft": "8px",
+                              "borderRadius": "999px",
+                              "marginBottom": "0px",
+                              "paddingRight": "8px",
+                              "paddingBottom": "2px",
+                              "backgroundColor": "#dcfce7"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "blk_mumhwf1t1184",
+              "type": "grid",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "tablet": {
+                  "maxWidth": "520px",
+                  "marginLeft": "auto",
+                  "marginRight": "auto",
+                  "gridTemplateColumns": "minmax(0, 1fr)"
+                },
+                "desktop": {
+                  "gap": "24px",
+                  "display": "grid",
+                  "alignItems": "center",
+                  "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhwf1t1188",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "paddingTop": "28px",
+                      "paddingLeft": "24px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "28px"
+                    },
+                    "tablet": {
+                      "transform": "none"
+                    },
+                    "desktop": {
+                      "position": "relative",
+                      "paddingTop": "36px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "32px",
+                      "borderRadius": "20px",
+                      "paddingRight": "32px",
+                      "paddingBottom": "36px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhwf1t1189",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "10px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "marginBottom": "8px",
+                          "justifyContent": "space-between"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhwf1t1190",
+                          "type": "heading",
+                          "props": {
+                            "text": "Basic",
+                            "level": "h3"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#0f172a",
+                              "fontSize": "20px",
+                              "marginTop": "0px",
+                              "fontWeight": "700",
+                              "lineHeight": "1.2",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhwf1t1191",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "For individuals getting started."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#64748b",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "24px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1192",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "6px",
+                          "display": "flex",
+                          "alignItems": "baseline",
+                          "marginBottom": "4px"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhwf1t1193",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "$19"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#0f172a",
+                              "fontSize": "48px",
+                              "marginTop": "0px",
+                              "fontWeight": "800",
+                              "lineHeight": "1",
+                              "marginBottom": "0px",
+                              "letterSpacing": "-0.03em"
+                            }
+                          }
+                        },
+                        {
+                          "id": "blk_mumhwf1t1194",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "/month"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#64748b",
+                              "fontSize": "16px",
+                              "marginTop": "0px",
+                              "lineHeight": "1.6",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhwf1t1195",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "or $15/mo billed yearly"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#4f46e5",
+                          "fontSize": "13px",
+                          "marginTop": "0px",
+                          "fontWeight": "600",
+                          "lineHeight": "1.6",
+                          "marginBottom": "24px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1196",
+                      "type": "button",
+                      "props": {
+                        "href": "#",
+                        "text": "Start with Basic",
+                        "newTab": false
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#0f172a",
+                          "display": "block",
+                          "textAlign": "center",
+                          "fontWeight": "500",
+                          "paddingTop": "12px",
+                          "borderColor": "#cbd5e1",
+                          "borderStyle": "solid",
+                          "borderWidth": "1px",
+                          "paddingLeft": "24px",
+                          "borderRadius": "6px",
+                          "marginBottom": "28px",
+                          "paddingRight": "24px",
+                          "paddingBottom": "12px",
+                          "textDecoration": "none",
+                          "backgroundColor": "#ffffff"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1197",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  1,000 contacts"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1198",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  3 landing pages"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1199",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Email support"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhwf1t1200",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "paddingTop": "28px",
+                      "paddingLeft": "24px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "28px"
+                    },
+                    "tablet": {
+                      "transform": "none"
+                    },
+                    "desktop": {
+                      "position": "relative",
+                      "boxShadow": "0 30px 60px -25px rgba(79, 70, 229, 0.6)",
+                      "transform": "scale(1.03)",
+                      "paddingTop": "36px",
+                      "borderColor": "#0f172a",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "32px",
+                      "borderRadius": "20px",
+                      "paddingRight": "32px",
+                      "paddingBottom": "36px",
+                      "backgroundColor": "#0f172a"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhwf1t1201",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "10px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "marginBottom": "8px",
+                          "justifyContent": "space-between"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhwf1t1202",
+                          "type": "heading",
+                          "props": {
+                            "text": "Pro",
+                            "level": "h3"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#ffffff",
+                              "fontSize": "20px",
+                              "marginTop": "0px",
+                              "fontWeight": "700",
+                              "lineHeight": "1.2",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        },
+                        {
+                          "id": "blk_mumhwf1t1203",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "Most popular"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#ffffff",
+                              "fontSize": "12px",
+                              "marginTop": "0px",
+                              "fontWeight": "700",
+                              "lineHeight": "1.6",
+                              "paddingTop": "4px",
+                              "paddingLeft": "10px",
+                              "borderRadius": "999px",
+                              "marginBottom": "0px",
+                              "paddingRight": "10px",
+                              "paddingBottom": "4px",
+                              "backgroundColor": "#4f46e5"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhwf1t1204",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "For growing teams that need more."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#94a3b8",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "24px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1205",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "6px",
+                          "display": "flex",
+                          "alignItems": "baseline",
+                          "marginBottom": "4px"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhwf1t1206",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "$49"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#ffffff",
+                              "fontSize": "48px",
+                              "marginTop": "0px",
+                              "fontWeight": "800",
+                              "lineHeight": "1",
+                              "marginBottom": "0px",
+                              "letterSpacing": "-0.03em"
+                            }
+                          }
+                        },
+                        {
+                          "id": "blk_mumhwf1t1207",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "/month"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#94a3b8",
+                              "fontSize": "16px",
+                              "marginTop": "0px",
+                              "lineHeight": "1.6",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhwf1t1208",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "or $39/mo billed yearly"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#a5b4fc",
+                          "fontSize": "13px",
+                          "marginTop": "0px",
+                          "fontWeight": "600",
+                          "lineHeight": "1.6",
+                          "marginBottom": "24px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1209",
+                      "type": "button",
+                      "props": {
+                        "href": "#",
+                        "text": "Start with Pro",
+                        "newTab": false
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#ffffff",
+                          "display": "block",
+                          "textAlign": "center",
+                          "fontWeight": "500",
+                          "paddingTop": "12px",
+                          "paddingLeft": "24px",
+                          "borderRadius": "6px",
+                          "marginBottom": "28px",
+                          "paddingRight": "24px",
+                          "paddingBottom": "12px",
+                          "textDecoration": "none",
+                          "backgroundColor": "#4f46e5"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1210",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  10,000 contacts"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#e2e8f0",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1211",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Unlimited pages"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#e2e8f0",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1212",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Automations"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#e2e8f0",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1213",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Priority support"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#e2e8f0",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "blk_mumhwf1t1214",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "paddingTop": "28px",
+                      "paddingLeft": "24px",
+                      "paddingRight": "24px",
+                      "paddingBottom": "28px"
+                    },
+                    "tablet": {
+                      "transform": "none"
+                    },
+                    "desktop": {
+                      "position": "relative",
+                      "paddingTop": "36px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "32px",
+                      "borderRadius": "20px",
+                      "paddingRight": "32px",
+                      "paddingBottom": "36px",
+                      "backgroundColor": "#ffffff"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumhwf1t1215",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "10px",
+                          "display": "flex",
+                          "alignItems": "center",
+                          "marginBottom": "8px",
+                          "justifyContent": "space-between"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhwf1t1216",
+                          "type": "heading",
+                          "props": {
+                            "text": "Enterprise",
+                            "level": "h3"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#0f172a",
+                              "fontSize": "20px",
+                              "marginTop": "0px",
+                              "fontWeight": "700",
+                              "lineHeight": "1.2",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhwf1t1217",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "For organisations at scale."
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#64748b",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "24px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1218",
+                      "type": "div",
+                      "props": {},
+                      "styles": {
+                        "desktop": {
+                          "gap": "6px",
+                          "display": "flex",
+                          "alignItems": "baseline",
+                          "marginBottom": "4px"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "blk_mumhwf1t1219",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "$149"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#0f172a",
+                              "fontSize": "48px",
+                              "marginTop": "0px",
+                              "fontWeight": "800",
+                              "lineHeight": "1",
+                              "marginBottom": "0px",
+                              "letterSpacing": "-0.03em"
+                            }
+                          }
+                        },
+                        {
+                          "id": "blk_mumhwf1t1220",
+                          "type": "paragraph",
+                          "props": {
+                            "text": "/month"
+                          },
+                          "styles": {
+                            "desktop": {
+                              "color": "#64748b",
+                              "fontSize": "16px",
+                              "marginTop": "0px",
+                              "lineHeight": "1.6",
+                              "marginBottom": "0px"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "blk_mumhwf1t1221",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "or $119/mo billed yearly"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#4f46e5",
+                          "fontSize": "13px",
+                          "marginTop": "0px",
+                          "fontWeight": "600",
+                          "lineHeight": "1.6",
+                          "marginBottom": "24px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1222",
+                      "type": "button",
+                      "props": {
+                        "href": "#",
+                        "text": "Contact sales",
+                        "newTab": false
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#0f172a",
+                          "display": "block",
+                          "textAlign": "center",
+                          "fontWeight": "500",
+                          "paddingTop": "12px",
+                          "borderColor": "#cbd5e1",
+                          "borderStyle": "solid",
+                          "borderWidth": "1px",
+                          "paddingLeft": "24px",
+                          "borderRadius": "6px",
+                          "marginBottom": "28px",
+                          "paddingRight": "24px",
+                          "paddingBottom": "12px",
+                          "textDecoration": "none",
+                          "backgroundColor": "#ffffff"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1223",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Unlimited contacts"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1224",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  SSO & audit logs"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1225",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Dedicated manager"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumhwf1t1226",
+                      "type": "paragraph",
+                      "props": {
+                        "text": "✓  Custom SLA"
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#334155",
+                          "fontSize": "15px",
+                          "marginTop": "0px",
+                          "lineHeight": "1.6",
+                          "marginBottom": "10px"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumht8jz966",
+      "type": "section",
+      "props": {
+        "htmlId": "footer"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "28px"
+        },
+        "tablet": {
+          "paddingTop": "72px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "72px"
+        },
+        "desktop": {
+          "paddingTop": "96px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "32px",
+          "backgroundColor": "#0f172a"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumht8jz967",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "maxWidth": "1140px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumht8jz968",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "paddingTop": "44px",
+                  "paddingLeft": "20px",
+                  "borderRadius": "20px",
+                  "marginBottom": "48px",
+                  "paddingRight": "20px",
+                  "paddingBottom": "44px"
+                },
+                "tablet": {
+                  "paddingTop": "56px",
+                  "paddingLeft": "32px",
+                  "paddingRight": "32px",
+                  "paddingBottom": "56px"
+                },
+                "desktop": {
+                  "textAlign": "center",
+                  "paddingTop": "72px",
+                  "paddingLeft": "48px",
+                  "borderRadius": "28px",
+                  "marginBottom": "64px",
+                  "paddingRight": "48px",
+                  "paddingBottom": "72px",
+                  "backgroundColor": "#4f46e5",
+                  "backgroundImage": "radial-gradient(80% 120% at 100% 0%, #818cf8 0%, rgba(79, 70, 229, 0) 60%), radial-gradient(60% 100% at 0% 100%, #7c3aed 0%, rgba(79, 70, 229, 0) 60%)"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumht8jz969",
+                  "type": "heading",
+                  "props": {
+                    "text": "Ready to grow faster?",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "30px"
+                    },
+                    "tablet": {
+                      "fontSize": "42px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "fontSize": "52px",
+                      "marginTop": "0px",
+                      "fontWeight": "700",
+                      "lineHeight": "1.08",
+                      "marginBottom": "16px",
+                      "letterSpacing": "-0.03em"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumht8jz970",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Join 10,000+ teams building their best campaigns with GoZen."
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px"
+                    },
+                    "desktop": {
+                      "color": "#e0e7ff",
+                      "fontSize": "19px",
+                      "marginTop": "0px",
+                      "lineHeight": "1.6",
+                      "marginBottom": "32px"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumht8jz971",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "textAlign": "center",
+                      "alignItems": "stretch",
+                      "flexDirection": "column"
+                    },
+                    "desktop": {
+                      "gap": "12px",
+                      "display": "flex",
+                      "flexWrap": "wrap",
+                      "alignItems": "center",
+                      "justifyContent": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "blk_mumht8jz972",
+                      "type": "button",
+                      "props": {
+                        "href": "#",
+                        "text": "Start free trial",
+                        "newTab": false
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#0f172a",
+                          "display": "inline-block",
+                          "fontWeight": "500",
+                          "paddingTop": "14px",
+                          "paddingLeft": "28px",
+                          "borderRadius": "6px",
+                          "paddingRight": "28px",
+                          "paddingBottom": "14px",
+                          "textDecoration": "none",
+                          "backgroundColor": "#ffffff"
+                        }
+                      }
+                    },
+                    {
+                      "id": "blk_mumht8jz973",
+                      "type": "button",
+                      "props": {
+                        "href": "#",
+                        "text": "Book a demo",
+                        "newTab": false
+                      },
+                      "styles": {
+                        "desktop": {
+                          "color": "#0f172a",
+                          "display": "inline-block",
+                          "fontWeight": "500",
+                          "paddingTop": "14px",
+                          "borderColor": "#cbd5e1",
+                          "borderStyle": "solid",
+                          "borderWidth": "1px",
+                          "paddingLeft": "28px",
+                          "borderRadius": "6px",
+                          "paddingRight": "28px",
+                          "paddingBottom": "14px",
+                          "textDecoration": "none",
+                          "backgroundColor": "#ffffff"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumhtjm1987",
+      "type": "section",
+      "props": {
+        "htmlId": "footer"
+      },
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "48px"
+        },
+        "desktop": {
+          "paddingTop": "64px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "64px",
+          "borderTopColor": "#e2e8f0",
+          "borderTopStyle": "solid",
+          "borderTopWidth": "1px",
+          "backgroundColor": "#ffffff"
+        }
+      },
+      "children": [
+        {
+          "id": "blk_mumhtjm1988",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "width": "100%",
+              "display": "flex",
+              "maxWidth": "1140px",
+              "textAlign": "center",
+              "alignItems": "center",
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "flexDirection": "column"
+            }
+          },
+          "children": [
+            {
+              "id": "blk_mumhtjm1989",
+              "type": "heading",
+              "props": {
+                "text": "GoZen",
+                "level": "h4"
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#0f172a",
+                  "fontSize": "22px",
+                  "marginTop": "0px",
+                  "fontWeight": "700",
+                  "lineHeight": "1.2",
+                  "marginBottom": "0px",
+                  "letterSpacing": "-0.02em"
+                }
+              }
+            },
+            {
+              "id": "blk_mumhtjm1990",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "gap": "12px 20px"
+                },
+                "desktop": {
+                  "gap": "32px",
+                  "display": "flex",
+                  "flexWrap": "wrap",
+                  "marginTop": "24px",
+                  "alignItems": "center",
+                  "marginBottom": "28px",
+                  "justifyContent": "center"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhtjm1991",
+                  "type": "link",
+                  "props": {
+                    "href": "#",
+                    "text": "About",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#334155",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhtjm1992",
+                  "type": "link",
+                  "props": {
+                    "href": "#",
+                    "text": "Features",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#334155",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhtjm1993",
+                  "type": "link",
+                  "props": {
+                    "href": "#",
+                    "text": "Pricing",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#334155",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhtjm1994",
+                  "type": "link",
+                  "props": {
+                    "href": "#",
+                    "text": "Blog",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#334155",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhtjm1995",
+                  "type": "link",
+                  "props": {
+                    "href": "#",
+                    "text": "Contact",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#334155",
+                      "fontSize": "15px",
+                      "fontWeight": "500",
+                      "textDecoration": "none"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "blk_mumhtjm1996",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "desktop": {
+                  "gap": "10px",
+                  "display": "flex",
+                  "alignItems": "center",
+                  "justifyContent": "center"
+                }
+              },
+              "children": [
+                {
+                  "id": "blk_mumhtjm1997",
+                  "type": "button",
+                  "props": {
+                    "href": "#",
+                    "text": "𝕏",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#0f172a",
+                      "width": "36px",
+                      "height": "36px",
+                      "display": "inline-flex",
+                      "fontSize": "13px",
+                      "alignItems": "center",
+                      "fontWeight": "700",
+                      "paddingTop": "0px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "0px",
+                      "borderRadius": "999px",
+                      "paddingRight": "0px",
+                      "paddingBottom": "0px",
+                      "justifyContent": "center",
+                      "textDecoration": "none",
+                      "backgroundColor": "#ffffff"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhtjm1998",
+                  "type": "button",
+                  "props": {
+                    "href": "#",
+                    "text": "in",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#0f172a",
+                      "width": "36px",
+                      "height": "36px",
+                      "display": "inline-flex",
+                      "fontSize": "13px",
+                      "alignItems": "center",
+                      "fontWeight": "700",
+                      "paddingTop": "0px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "0px",
+                      "borderRadius": "999px",
+                      "paddingRight": "0px",
+                      "paddingBottom": "0px",
+                      "justifyContent": "center",
+                      "textDecoration": "none",
+                      "backgroundColor": "#ffffff"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhtjm1999",
+                  "type": "button",
+                  "props": {
+                    "href": "#",
+                    "text": "f",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#0f172a",
+                      "width": "36px",
+                      "height": "36px",
+                      "display": "inline-flex",
+                      "fontSize": "13px",
+                      "alignItems": "center",
+                      "fontWeight": "700",
+                      "paddingTop": "0px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "0px",
+                      "borderRadius": "999px",
+                      "paddingRight": "0px",
+                      "paddingBottom": "0px",
+                      "justifyContent": "center",
+                      "textDecoration": "none",
+                      "backgroundColor": "#ffffff"
+                    }
+                  }
+                },
+                {
+                  "id": "blk_mumhtjm11000",
+                  "type": "button",
+                  "props": {
+                    "href": "#",
+                    "text": "▶",
+                    "newTab": false
+                  },
+                  "styles": {
+                    "desktop": {
+                      "color": "#0f172a",
+                      "width": "36px",
+                      "height": "36px",
+                      "display": "inline-flex",
+                      "fontSize": "13px",
+                      "alignItems": "center",
+                      "fontWeight": "700",
+                      "paddingTop": "0px",
+                      "borderColor": "#e2e8f0",
+                      "borderStyle": "solid",
+                      "borderWidth": "1px",
+                      "paddingLeft": "0px",
+                      "borderRadius": "999px",
+                      "paddingRight": "0px",
+                      "paddingBottom": "0px",
+                      "justifyContent": "center",
+                      "textDecoration": "none",
+                      "backgroundColor": "#ffffff"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "blk_mumhtjm11001",
+              "type": "paragraph",
+              "props": {
+                "text": "© 2026 GoZen, Inc. All rights reserved."
+              },
+              "styles": {
+                "desktop": {
+                  "color": "#94a3b8",
+                  "fontSize": "14px",
+                  "marginTop": "28px",
+                  "lineHeight": "1.6",
+                  "marginBottom": "0px"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

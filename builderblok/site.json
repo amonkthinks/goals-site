@@ -12,6 +12,11 @@
       "file": "pages/about.json"
     },
     {
+      "route": "/pricing",
+      "name": "pricing",
+      "file": "pages/pricing.json"
+    },
+    {
       "route": "/test",
       "name": "test",
       "file": "pages/test.json"
