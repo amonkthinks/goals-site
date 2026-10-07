@@ -1,8 +1,13 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "name": "about",
   "slug": "about",
   "route": "/about",
+  "locale": "en",
+  "dir": "ltr",
+  "alternates": {
+    "en": "/about"
+  },
   "description": null,
   "breakpoints": {
     "tablet": 991,

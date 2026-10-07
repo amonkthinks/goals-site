@@ -1,8 +1,13 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "name": "test",
   "slug": "test",
   "route": "/test",
+  "locale": "en",
+  "dir": "ltr",
+  "alternates": {
+    "en": "/test"
+  },
   "description": null,
   "breakpoints": {
     "tablet": 991,
@@ -391,6 +396,195 @@
                   "objectFit": "cover"
                 }
               }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blk_mumjeojo2",
+      "type": "section",
+      "props": {},
+      "styles": {
+        "mobile": {
+          "paddingTop": "48px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingBottom": "48px"
+        },
+        "tablet": {
+          "paddingTop": "64px",
+          "paddingBottom": "64px"
+        },
+        "desktop": {
+          "paddingTop": "80px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingBottom": "80px",
+          "backgroundColor": "#f8fafc"
+        }
+      },
+      "children": [
+        {
+          "id": "aimumluq27_cta_container",
+          "type": "container",
+          "props": {},
+          "styles": {
+            "desktop": {
+              "maxWidth": "1140px",
+              "marginLeft": "auto",
+              "marginRight": "auto"
+            }
+          },
+          "children": [
+            {
+              "id": "aimumluq27_cta_card",
+              "type": "div",
+              "props": {},
+              "styles": {
+                "mobile": {
+                  "paddingTop": "40px",
+                  "paddingLeft": "20px",
+                  "paddingRight": "20px",
+                  "paddingBottom": "40px"
+                },
+                "tablet": {
+                  "paddingTop": "48px",
+                  "paddingLeft": "32px",
+                  "paddingRight": "32px",
+                  "paddingBottom": "48px"
+                },
+                "desktop": {
+                  "display": "flex",
+                  "boxShadow": "0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)",
+                  "textAlign": "center",
+                  "alignItems": "center",
+                  "paddingTop": "64px",
+                  "paddingLeft": "48px",
+                  "borderRadius": "24px",
+                  "paddingRight": "48px",
+                  "flexDirection": "column",
+                  "paddingBottom": "64px",
+                  "backgroundColor": "#0f172a"
+                }
+              },
+              "children": [
+                {
+                  "id": "aimumluq27_cta_heading",
+                  "type": "heading",
+                  "props": {
+                    "text": "Ready to hit your growth goals?",
+                    "level": "h2"
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "28px"
+                    },
+                    "tablet": {
+                      "fontSize": "36px"
+                    },
+                    "desktop": {
+                      "color": "#ffffff",
+                      "fontSize": "42px",
+                      "maxWidth": "720px",
+                      "fontWeight": "800",
+                      "lineHeight": "1.2",
+                      "marginBottom": "16px"
+                    }
+                  }
+                },
+                {
+                  "id": "aimumluq27_cta_paragraph",
+                  "type": "paragraph",
+                  "props": {
+                    "text": "Join over 10,000+ high-growth teams using our real-time analytics platform to scale smarter, reduce churn, and boost LTV."
+                  },
+                  "styles": {
+                    "mobile": {
+                      "fontSize": "16px",
+                      "marginBottom": "24px"
+                    },
+                    "desktop": {
+                      "color": "#94a3b8",
+                      "fontSize": "18px",
+                      "maxWidth": "600px",
+                      "lineHeight": "1.6",
+                      "marginBottom": "32px"
+                    }
+                  }
+                },
+                {
+                  "id": "aimumluq27_cta_buttons_group",
+                  "type": "div",
+                  "props": {},
+                  "styles": {
+                    "mobile": {
+                      "width": "100%",
+                      "flexDirection": "column"
+                    },
+                    "desktop": {
+                      "gap": "16px",
+                      "display": "flex",
+                      "justifyContent": "center"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "aimumluq27_cta_btn_primary",
+                      "type": "button",
+                      "props": {
+                        "href": "#",
+                        "text": "Start Free Trial"
+                      },
+                      "styles": {
+                        "mobile": {
+                          "width": "100%"
+                        },
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "16px",
+                          "textAlign": "center",
+                          "fontWeight": "600",
+                          "paddingTop": "14px",
+                          "paddingLeft": "28px",
+                          "borderRadius": "8px",
+                          "paddingRight": "28px",
+                          "paddingBottom": "14px",
+                          "backgroundColor": "#6366f1"
+                        }
+                      }
+                    },
+                    {
+                      "id": "aimumluq27_cta_btn_secondary",
+                      "type": "button",
+                      "props": {
+                        "href": "#",
+                        "text": "Book a Demo"
+                      },
+                      "styles": {
+                        "mobile": {
+                          "width": "100%"
+                        },
+                        "desktop": {
+                          "color": "#ffffff",
+                          "fontSize": "16px",
+                          "textAlign": "center",
+                          "fontWeight": "600",
+                          "paddingTop": "14px",
+                          "borderColor": "#334155",
+                          "borderStyle": "solid",
+                          "borderWidth": "1px",
+                          "paddingLeft": "28px",
+                          "borderRadius": "8px",
+                          "paddingRight": "28px",
+                          "paddingBottom": "14px",
+                          "backgroundColor": "transparent"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }

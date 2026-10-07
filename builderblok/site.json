@@ -1,25 +1,55 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
+  "defaultLocale": "en",
+  "locales": [
+    "en"
+  ],
+  "siteUrl": "https://amonkthinks-goals.netlify.app",
   "pages": [
     {
       "route": "/",
       "name": "qq",
-      "file": "pages/qq.json"
+      "locale": "en",
+      "file": "pages/qq.json",
+      "alternates": {
+        "en": "/"
+      }
     },
     {
       "route": "/about",
       "name": "about",
-      "file": "pages/about.json"
+      "locale": "en",
+      "file": "pages/about.json",
+      "alternates": {
+        "en": "/about"
+      }
+    },
+    {
+      "route": "/clone",
+      "name": "clayclone",
+      "locale": "en",
+      "file": "pages/clayclone.json",
+      "alternates": {
+        "en": "/clone"
+      }
     },
     {
       "route": "/pricing",
       "name": "pricing",
-      "file": "pages/pricing.json"
+      "locale": "en",
+      "file": "pages/pricing.json",
+      "alternates": {
+        "en": "/pricing"
+      }
     },
     {
       "route": "/test",
       "name": "test",
-      "file": "pages/test.json"
+      "locale": "en",
+      "file": "pages/test.json",
+      "alternates": {
+        "en": "/test"
+      }
     }
   ]
 }

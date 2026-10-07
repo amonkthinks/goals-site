@@ -1,8 +1,13 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "name": "pricing",
   "slug": "pricing",
   "route": "/pricing",
+  "locale": "en",
+  "dir": "ltr",
+  "alternates": {
+    "en": "/pricing"
+  },
   "description": null,
   "breakpoints": {
     "tablet": 991,

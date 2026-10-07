@@ -1,8 +1,13 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "name": "qq",
   "slug": "qq",
   "route": "/",
+  "locale": "en",
+  "dir": "ltr",
+  "alternates": {
+    "en": "/"
+  },
   "description": null,
   "breakpoints": {
     "tablet": 991,

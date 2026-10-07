@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "name": "clayclone",
+  "slug": "clayclone",
+  "route": "/clone",
+  "locale": "en",
+  "dir": "ltr",
+  "alternates": {
+    "en": "/clone"
+  },
+  "description": null,
+  "breakpoints": {
+    "tablet": 991,
+    "mobile": 478
+  },
+  "blocks": []
+}
